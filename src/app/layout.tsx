@@ -2,8 +2,8 @@ import "./globals.css";
 import type { ReactNode } from "react";
 
 export const metadata = {
-  title: "AUTO BUILDER Frontend",
-  description: "AUTO BUILDER command center frontend"
+  title: "Eden Skye Studios",
+  description: "Digital modeling and content creator agency"
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
